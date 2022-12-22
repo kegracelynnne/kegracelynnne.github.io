@@ -6,14 +6,14 @@ date: 2022-12-21
 comments: false
 ---
 
-<center><img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn"><center>
+<center>![lk_prof](lk_prof.jpg "Ke Liu")<center>
 <center><b>Ke Liu</b></center>
 
 <center>Forever Young & Never-ending Passion</center>
 
 In this April, I graduated from University of Michigan with a Bachelor of Science degree in Computer Science, Minor in Mathematics.
 
-Hi! I'm **Ke Liu**. Currently a Master student in <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49b.png?v8" border="0"> <a href="https://umich.edu/"><b>University of Michigan</b></a> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png?v8">.
+Hi! I'm **Ke Liu**. Currently a Master student in ![yellow_heart](https://github.githubassets.com/images/icons/emoji/unicode/1f49b.png?v8) <a href="https://umich.edu/"><b>University of Michigan</b></a> ![blue_heart](https://github.githubassets.com/images/icons/emoji/unicode/1f499.png?v8).
 
 
 
