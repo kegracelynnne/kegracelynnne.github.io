@@ -4,7 +4,7 @@ bio:                'Computer Science, Robotics and AI.'
 description:        "Currently studying Robotics as a graduate student in University of Michigan."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/lk_prof.jpg'
+logo:               'assets/img/lk_profile.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
