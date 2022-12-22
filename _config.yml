@@ -4,7 +4,7 @@ bio:                'Computer Science, Robotics and AI.'
 description:        "Currently studying Robotics as a graduate student in University of Michigan."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/lk_prof.png'
+logo:               'assets/img/lk_prof.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -42,7 +42,7 @@ email:              kliubiyk@umich.edu
 # facebook:           username
 github-url:         https://github.com/kegracelynnne
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           www.linkedin.com/in/ke-gracelynnne
+linkedin:           https://www.linkedin.com/in/ke-gracelynnne/
 #xing:              username
 instagram:          https://instagram.com/gracelyne_lk?igshid=MWI4MTIyMDE=
 #lastfm:            username
