@@ -11,10 +11,11 @@ comments: false
 
 <center>Forever Young & Never-ending Passion</center>
 
-
-Hi! I'm **Ke Liu**. Currently a Master student in <span style="font-size:50px;"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49b.png?v8"></span> <a href="https://umich.edu/"><b>University of Michigan</b></a> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png?v8">.
-
 In this April, I graduated from University of Michigan with a Bachelor of Science degree in Computer Science, Minor in Mathematics.
+
+Hi! I'm **Ke Liu**. Currently a Master student in <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49b.png?v8" border="0"> <a href="https://umich.edu/"><b>University of Michigan</b></a> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png?v8">.
+
+
 
 I enjoy traveling, cooking and baking, and music!
 
