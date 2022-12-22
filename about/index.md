@@ -6,7 +6,7 @@ date: 2022-12-21
 comments: false
 ---
 
- <img src="lk_prof.jpg" class="img-circle zoombtn animated rotateIn">
+<center><img src="lk_prof.jpg" class="img-circle zoombtn animated rotateIn"></center>
 <center><b>Ke Liu</b></center>
 
 <center>Forever Young & Never-ending Passion</center>
