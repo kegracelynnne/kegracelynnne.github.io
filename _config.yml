@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Ke Liu
+bio:                'Computer Science, Robotics and AI.'
+description:        "Currently studying Robotics as a graduate student in University of Michigan."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/lk_prof.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://kegracelynnne.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              kliubiyk@umich.edu
+# twitter:            username
+# facebook:           username
+github-url:         https://github.com/kegracelynnne
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           www.linkedin.com/in/ke-gracelynnne
 #xing:              username
-instagram:          username
+instagram:          https://instagram.com/gracelyne_lk?igshid=MWI4MTIyMDE=
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
