@@ -3,7 +3,7 @@ layout: post
 title:  "Adaptive Cruise Control Project"
 date:   2023-04-30
 excerpt: "University of Michigan, EECS461"
-project: 1
+project: true
 tag:
 - C
 - MATLAB
