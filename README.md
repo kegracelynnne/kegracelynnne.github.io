@@ -1,4 +1,4 @@
-# Grace's Personal Website [link](https://kegracelynnne.github,io)  
+# Grace's Personal Website [link](https://kegracelynnne.github.io)  
 
 ## `Welcome smart people.`
     
