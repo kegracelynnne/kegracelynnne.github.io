@@ -2,7 +2,7 @@
 layout: post
 title:  "Django Database Project"
 date:   2023-04-15
-excerpt: "University of Michigan, SI664"
+excerpt: "University of Michigan, SI664 | Django, Python, Database"
 project: true
 tag:
 - Django
