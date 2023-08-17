@@ -11,7 +11,7 @@ tag:
 comments: true
 ---
 
-•	Report about Semantic SLAM: `LiDAR Fusion and Dynamic Object Masking for ORB-SLAM2` [(Read More)](../assets/reports/LiDAR_Fusion_and_Dynamic_Object_Masking_for_ORB_SLAM2.pdf)
+•	Report about Semantic SLAM: `LiDAR Fusion and Dynamic Object Masking for ORB-SLAM2` <a href="../assets/reports/LiDAR_Fusion_and_Dynamic_Object_Masking_for_ORB_SLAM2.pdf" target="_blank"> (Read More) </a>
 
 •	In this study, we presented a modification to ORB-SLAM2 model, to improve its performance in dynamic environments. We integrated a depth prediction sensor-fusion
 model to better understande the distances of object in the environment, and a 3D object detection algorithm to identify key objects and remove the negative effects by dynamic objects/remain the static objects to achieve a better result using ORB-SLAM2.
